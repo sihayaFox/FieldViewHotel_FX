@@ -1441,7 +1441,7 @@ General Styles - Owlcarousel
 --------------------------------------------------------------*/
 .home-section {
   position: relative;
-  background-color: #fff;
+  background-color: rgb(0, 0, 0);
   background-repeat: no-repeat;
   background-position: center center;
   width: 100%;
