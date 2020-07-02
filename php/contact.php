@@ -44,7 +44,7 @@
 	$message = $_POST['message'];
 	$from = $email;
 	$to = 'niroshan95.dev@gmail.com';  // please change this email id
-	$subject = '';
+	$subject = 'info';
 
 	$body = "From: $name\n E-Mail: $email\n Message:\n $message";
 
